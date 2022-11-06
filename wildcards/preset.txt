@@ -1,1 +1,6 @@
-masterpiece, best quality, 1girl, solo focus, upper body, cowboy shot, feet out of frame, 
+masterpiece, best quality, highres, 1girl, solo, (upper body:1.2), __actress__
+masterpiece, best quality, highres, 1girl, solo, (full body:1.2), __actress__
+masterpiece, best quality, highres, 1girl, solo, (portrait:1.2), __actress__
+masterpiece, best quality, highres, 1girl, solo, (cowboy shot:1.2), __actress__
+masterpiece, best quality, highres, 1girl, solo, (feet out of frame:1.2), __actress__
+masterpiece, best quality, highres, 1girl, solo, (cropped legs:1.2), __actress__
